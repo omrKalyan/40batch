@@ -1,0 +1,20 @@
+VotingPod Assingment
+a;dskjf;lasdkjf
+a;lskdjf;kalsjdf
+asdf;kads;lfkjdsf
+;asfklajsdf
+as;ljf;lksdj
+dslfjasldkfj
+lkjflkjas
+javaworker.yml  docker-stack.yml           MAINTAINERS         vote
+[root@ip-172-31-15-225 example-voting-app]# cd result/
+[root@ip-172-31-15-225 result]# ls
+docker-compose.test.yml  Dockerfile  package.json  server.js  tests  views
+[root@ip-172-31-15-225 result]# vi server.js 
+[root@ip-172-31-15-225 result]# kubectl delete po result-5d57b59f4b-2dnh6
+pod "result-5d57b59f4b-2dnh6" deleted
+^C
+
+
+MY OBSERVATON
+1.2
